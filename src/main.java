@@ -11,6 +11,8 @@ public class main {
         System.out.println("test1");
         System.out.println("test2");
 
+        System.out.println("420");
+
         System.out.println("360");
     }
 }
